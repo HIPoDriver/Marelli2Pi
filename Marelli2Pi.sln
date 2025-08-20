@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marelli2Pi", "Marelli2Pi\Marelli2Pi.csproj", "{2211A0F6-110D-462F-8F91-BB1E0CBBA47B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2211A0F6-110D-462F-8F91-BB1E0CBBA47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2211A0F6-110D-462F-8F91-BB1E0CBBA47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2211A0F6-110D-462F-8F91-BB1E0CBBA47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2211A0F6-110D-462F-8F91-BB1E0CBBA47B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC202F12-1C5A-421F-B409-52C9754749E1}
+	EndGlobalSection
+EndGlobal
